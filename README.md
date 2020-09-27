@@ -17,5 +17,9 @@ For more information about the simulation environment, please check [here](https
 
 
 # Citation
-If our code is helpful in you research or work, please cite our paper:
-........
+If our code is helpful in your research or work, please cite our paper: “AERIAL SPECTRUM SURVEYING: RADIO MAP ESTIMATION WITH AUTONOMOUS UAVS.”
+
+
+#### Contact
+Please feel free to contact us by email if you have any issues in running the code.
+
